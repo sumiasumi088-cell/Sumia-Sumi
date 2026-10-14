@@ -1,0 +1,6 @@
+{
+  "name": "সহজ শপ - Shohoj Shop WhatsApp Store & Merchant Dashboard",
+  "description": "বাংলাদেশের প্রিমিয়াম WhatsApp কমার্স প্ল্যাটফর্ম ও মার্চেন্ট ইনভেন্টরি ম্যানেজমেন্ট ড্যাশবোর্ড।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
